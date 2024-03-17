@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibtech-ng&label=Profile%20views&color=0e75b6&style=flat" alt="ibtech-ng" /> </p>
 
-- 💬 Ask me about **JavaSwing / JSP, Servlet /Spring Boot /Spring MVC/ Hibernate/ Thymeleaf/ HTML / CSS/BootStrap**
+- 💬 Ask me about **JavaSwing / JSP, Servlet /Spring Boot /Spring MVC/ Hibernate/Maven/ Thymeleaf/ HTML / CSS/BootStrap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
